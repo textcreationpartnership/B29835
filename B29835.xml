@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Hudibras to the Vintners: a satyr on their adulterated dear wines.</title>
+            <author>Sacheverell, George.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29835</idno><idno type="EEBO-CITATION">99888808</idno>
+  <idno type="VID">196238</idno>
+  <idno type="EEBO-PROQUEST">2240903435</idno>
+  
+            <idno type="STC">Wing S3878D</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.6.[8]</idno>
+            <idno type="STC">ESTC R232090</idno>
+            <idno type="PROQUEST">ocm99888808</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888808e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29835)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196238)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; F2:1[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Hudibras to the Vintners: a satyr on their adulterated dear wines.</title>
+                  <author>Sacheverell, George.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.L.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Hudibras = George Sacheverell; cf. R26420.</note>
+                  <note>At foot of caption title: two line verse in Latin, by "Martial".</note>
+                  <note>Text verse starts: For sharpest vinegar and bitterest gall, the abused and incensed muses call; ...</note>
+                  <note>In two columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wine and wine making --  England --  Early works to 1800.</term>
+               <term type="topical_term">Wine --  Commerce --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:196238:1"/>
+            <head>Sir HUDIBRAS TO THE VINTNERS: A <hi>SATYR</hi> on their Adulterated Dear WINES.</head>
+            <epigraph>
+               <q>
+                  <lg>
+                     <l>—Scelus est jugulare Falernum,</l>
+                     <l>Et dare Campano Toxica saeva Mero.</l>
+                  </lg>
+                  <bibl>Martial.</bibl>
+               </q>
+            </epigraph>
+            <lg>
+               <l>FOr <hi>sharpest Vinegar</hi> and <hi>bitterest Gall,</hi>
+               </l>
+               <l>The <hi>abused</hi> and <hi>incensed</hi> Muses Call;</l>
+               <l>For <hi>Wines</hi> have lost their <hi>vertue</hi> and their <hi>force,</hi>
+               </l>
+               <l>The <hi>Wits</hi> must seek some <hi>purer limpid source;</hi>
+               </l>
+               <l>
+                  <hi>Bacchus</hi> hath <hi>Deity</hi> and <hi>Altars</hi> lost,</l>
+               <l>Nor will his <hi>Worship</hi> quit the high-priz'd <hi>Cost;</hi>
+               </l>
+               <l>The adult'rous <hi>mixture</hi> with the noble <hi>Grape,</hi>
+               </l>
+               <l>Like the base <hi>issue</hi> of a Mongril Rape</l>
+               <l>Doth quite <hi>degenerate</hi> from the <hi>genuine rase,</hi>
+               </l>
+               <l>And the <hi>high blood</hi> in that <hi>rich juice</hi> debase.</l>
+            </lg>
+            <lg>
+               <l>No more shall Poets their <hi>Parnassian Fount,</hi>
+               </l>
+               <l>And <hi>chrystal</hi> Springs that bless that <hi>sacred Mount</hi>
+               </l>
+               <l>
+                  <hi>Divinest Nectar</hi> and <hi>Ambrosian Drink</hi>
+               </l>
+               <l>In <hi>high flown</hi> fancies <hi>humble</hi> to this <hi>Sink</hi>
+               </l>
+               <l>And <hi>Common-shore</hi> of <hi>Liquors,</hi> which we Sup</l>
+               <l>With <hi>foul Ingredients</hi> in every Cup.</l>
+               <l>Thus Sack which was the <hi>universal Cure,</hi>
+               </l>
+               <l>Nothing so <hi>Sov'rain,</hi> so safe, and sure;</l>
+               <l>Is now become the <hi>Epidemick Ill,</hi>
+               </l>
+               <l>The Common ruine, which all sorts doth kill.</l>
+               <l>
+                  <hi>Pandora</hi>'s <hi>Box</hi> was with lesse mischief <hi>fraught,</hi>
+               </l>
+               <l>Then we have in a Vintner's <hi>Bottle</hi> brought;</l>
+               <l>In which there doth such <hi>lime</hi> and <hi>sulphur</hi> dwell,</l>
+               <l>That it's a Wonder how this <hi>Mortar Shell</hi>
+               </l>
+               <l>Breaks not to pieces, nor with <hi>noyse</hi> and <hi>wounds,</hi>
+               </l>
+               <l>Instead of <hi>Burning Feavers</hi> men confounds.</l>
+            </lg>
+            <lg>
+               <l>And sure the Glasse, that's to this use design'd</l>
+               <l>Is with more Art and Roguery calcin'd;</l>
+               <l>Nor is with <hi>Sense Antipathetick</hi> blest,</l>
+               <l>As rather then <hi>endure</hi> the <hi>poysonous test,</hi>
+               </l>
+               <l>To <hi>burst</hi> in <hi>sunder,</hi> giving us to see</l>
+               <l>The one's <hi>Malignance,</hi> that's <hi>Philanthrope.</hi>
+               </l>
+               <l>And a new sort of <hi>Pestilence</hi> now raigns,</l>
+               <l>And principally doth <hi>infect</hi> the <hi>Brains.</hi>
+               </l>
+               <l>Hence come the <hi>quarrells</hi> and the private Jars,</l>
+               <l>In imitation of the <hi>Belgick</hi> Wars</l>
+               <l>Wherein the Soldier to the Battel runs</l>
+               <l>
+                  <hi>Fir</hi>'d by that <hi>Powder,</hi> which do's <hi>load</hi> the <hi>Guns.</hi>
+               </l>
+               <l>So our late frequent <hi>Duels</hi> do imply,</l>
+               <l>That in our Sack <hi>Contagion</hi> doth lye;</l>
+               <l>Which like <hi>infected</hi> Aire ill <hi>vapours</hi> takes,</l>
+               <l>And them a <hi>Compound</hi> of destruction makes,</l>
+               <l>To so great danger, that there needs be put</l>
+               <l>
+                  <hi>Have mercy Lord</hi> o'th' <hi>Bung</hi> of every <hi>But.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Nor have we fared better since our <hi>Wines,</hi>
+               </l>
+               <l>Were <hi>rated</hi> to maintain <hi>rebellious</hi> Times:</l>
+               <l>That what our <hi>Luxury</hi> could not advance,</l>
+               <l>
+                  <hi>Disloyalty</hi> and <hi>Treason</hi> might <hi>enhance;</hi>
+               </l>
+               <l>When <hi>Parallel</hi> to the <hi>Cheats</hi> upon the State,</l>
+               <l>The Vintners first 'gan to <hi>Sophisticate;</hi>
+               </l>
+               <l>And <hi>noyse</hi> of <hi>Cannon</hi> like to <hi>Thunder cracks,</hi>
+               </l>
+               <l>That <hi>sower</hi> the Ale, did <hi>sweeten</hi> all our <hi>Sacks;</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This was th' effect of the <hi>Dutch Devil Excise,</hi>
+               </l>
+               <l>That rais'd the <hi>Wines</hi> from their <hi>first modest</hi> price,</l>
+               <l>And made the Vintners study and contrive</l>
+               <l>A means to pay this <hi>Gabel,</hi> and yet <hi>thrive;</hi>
+               </l>
+               <l>And therefore whence the <hi>mischief</hi> first was <hi>brought,</hi>
+               </l>
+               <l>Thence <hi>Remedy</hi> worse then Disease was sought:</l>
+               <l>
+                  <hi>Stums</hi> and <hi>Molossus,</hi> and like <hi>brewing trash,</hi>
+               </l>
+               <l>And all their <hi>deadly Arts</hi> of <hi>Balderdash</hi>
+               </l>
+               <l>Were practized, and yet our <hi>wanton purse</hi>
+               </l>
+               <l>Must <hi>dearer</hi> pay for what growes <hi>worse</hi> and <hi>worse;</hi>
+               </l>
+               <l>Wretchedly mad, <hi>like Hatchet after Helve,</hi>
+               </l>
+               <l>From 6 w' have been <hi>strappado'd</hi> up to <hi>Twelve.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Nor will this serve; but if a <hi>neater</hi> peece,</l>
+               <l>Such as <hi>adored</hi> by old <hi>Rome</hi> and <hi>Greece,</hi>
+               </l>
+               <l>Whose <hi>secret power</hi> aw'd their impious <hi>Art,</hi>
+               </l>
+               <l>Be set for <hi>sacrificing draughts</hi> apart:</l>
+               <l>Then to fill up the <hi>measure</hi> of their <hi>Sin,</hi>
+               </l>
+               <l>The Pot's not <hi>fill'd</hi> up to the <hi>neck o'th' Brim;</hi>
+               </l>
+               <l>Which <hi>Hocus</hi> Drawer with a <hi>nimble passe,</hi>
+               </l>
+               <l>Doth indiscovered turn into the Glasse;</l>
+               <l>So where in <hi>quality</hi> they don't <hi>offend,</hi>
+               </l>
+               <l>The less'ned <hi>quantum</hi> shall their losse amend.</l>
+            </lg>
+            <lg>
+               <l>Here I could mention <hi>Bottles</hi> of a <hi>Quart,</hi>
+               </l>
+               <l>VVhich of a due half pint are often short:</l>
+               <l>But not to urge that more <hi>Gentile</hi> deceit,</l>
+               <l>Look to a <hi>monstrous</hi> and a <hi>popular cheat;</hi>
+               </l>
+               <l>Pots <hi>girdled</hi> in the <hi>middle</hi> with a <hi>ring</hi>
+               </l>
+               <l>As a new <hi>Ornament,</hi> these <hi>Whipsters</hi> bring,</l>
+               <l>Which having pass'd the <hi>Seal</hi> at top, who'd think,</l>
+               <l>Or would suspect false measure in the Drink?</l>
+               <l>But <hi>common lewdest Strumpets</hi> we see dare</l>
+               <l>Avouch they <hi>honest 'bove the Girdle</hi> are.</l>
+               <l>But who shall view their bottoms, and compare</l>
+               <l>
+                  <note place="margin">This is a new but common cheat as hath bin experimen<g ref="char:EOLhyphen"/>ted in several Taverns and Companies.</note> This Artifice with other Peuterers ware,</l>
+               <l>Shall find them <hi>saw'd</hi> and <hi>soddered</hi> anew,</l>
+               <l>And a big Glass ful wanting of the due.</l>
+               <l>Their other private frauds I must omit,</l>
+               <l>And leave them to a <hi>vexed fresher Wit.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. L.</hi> 1663.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
